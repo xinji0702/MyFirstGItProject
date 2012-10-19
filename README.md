@@ -1,0 +1,4 @@
+MyFirstGItProject
+=================
+
+First mac application
